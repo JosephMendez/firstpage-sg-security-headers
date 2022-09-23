@@ -4,7 +4,7 @@ Plugin Name: Security Headers
 Plugin URI: https://www.firstpagedigital.sg/ 
 Description: Security headers are directives used by web applications to configure security defenses.  
 Version: 1.0.0
-Text Domain: security-headers
+Text Domain: firstpage-sg-security-headers
 Author: Joseph Mendez
 Author URI: https://www.linkedin.com/in/joseph-m-3a133a29/                                                                                                                                                                                          
 */
